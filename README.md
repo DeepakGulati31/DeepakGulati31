@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 # 💫 About Me:
-🔭 I’m currently working on "Weather App"<br>🌱 I’m currently learning UI/UX,DSA in C++<br>👯 I’m looking to collaborate on Frontend projects<br>👨‍💻 All of my projects are available at https://github.com/DeepakGulati31<br>💬 Ask me about HTML,CSS,JS,React.js<br>📫 How to reach me gulatideepak844@gmail.com<br>⚡ Fun fact I am Pro at BGMI.
+🔭 I’m currently working on Backend Development.<br>🌱 I’m currently learning UI/UX,DSA in C++<br>👯 I’m looking to collaborate on Frontend projects<br>👨‍💻 All of my projects are available at https://github.com/DeepakGulati31<br>💬 Ask me about HTML,CSS,JS,React.js<br>📫 How to reach me gulatideepak844@gmail.com<br>⚡ Fun fact I am Pro at BGMI.
 
 
 ## 🌐 Socials:
