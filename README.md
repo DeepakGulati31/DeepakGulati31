@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Deepak Gulati</h1>
 <h3 align="center">A passionate frontend developer and Coding Enthusiast🚀. Innovating Through Lines of Code💡.</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc3NTIzODIsIm5iZiI6MTcwNzc1MjA4MiwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjEyVDE1MzQ0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMyYTY4ZTRjN2E2MjQ2ODFhZjk5MTU4ZDIyMzFlNjZmZmZiOTJmZmY4NjhkODJhMDA1ZGYwODc4YTkxZGVlOWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.9L0sIcuyUkmzeQ3Tu6AZOkzv-Oz02ndVUpbtGl1q5ZY">
 
 # 💫 About Me:
 🔭 I’m currently working on Backend Development.<br>🌱 I’m currently learning UI/UX,DSA in C++<br>👯 I’m looking to collaborate on Frontend projects<br>👨‍💻 All of my projects are available at https://github.com/DeepakGulati31<br>💬 Ask me about HTML,CSS,JS,React.js<br>📫 How to reach me gulatideepak844@gmail.com<br>⚡ Fun fact I am Pro at BGMI.
