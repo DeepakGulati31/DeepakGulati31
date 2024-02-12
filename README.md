@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Deepak Gulati</h1>
 <h3 align="center">A passionate frontend developer and Coding Enthusiast🚀. Innovating Through Lines of Code💡.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 # 💫 About Me:
 🔭 I’m currently working on Backend Development.<br>🌱 I’m currently learning UI/UX,DSA in C++<br>👯 I’m looking to collaborate on Frontend projects<br>👨‍💻 All of my projects are available at https://github.com/DeepakGulati31<br>💬 Ask me about HTML,CSS,JS,React.js<br>📫 How to reach me gulatideepak844@gmail.com<br>⚡ Fun fact I am Pro at BGMI.
