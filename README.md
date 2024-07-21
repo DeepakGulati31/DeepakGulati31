@@ -1,3 +1,4 @@
+<img align="right" alt="Coding" width="400" src="https://www.canva.com/design/DAGLk90WLbE/JH8Gb7hBhfE2dDovNonlgg/edit?utm_content=DAGLk90WLbE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 
 
 <h1 align="center">Hi 👋, I'm Deepak Gulati</h1>
