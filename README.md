@@ -1,4 +1,5 @@
-<img align="right" alt="Coding" width="400" src="https://www.canva.com/design/DAGLk90WLbE/JH8Gb7hBhfE2dDovNonlgg/edit?utm_content=DAGLk90WLbE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+<img align="right" alt="Coding" width="400" src="![Yellow and Green Illustration Personal LinkedIn Banner](https://github.com/user-attachments/assets/72e9bb81-0101-4958-90bd-b2fa9339c4d9)
+">
 
 
 <h1 align="center">Hi 👋, I'm Deepak Gulati</h1>
