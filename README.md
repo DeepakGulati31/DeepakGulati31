@@ -1,5 +1,4 @@
-<img align="right" alt="Coding" width="400" src="![Yellow and Green Illustration Personal LinkedIn Banner](https://github.com/user-attachments/assets/72e9bb81-0101-4958-90bd-b2fa9339c4d9)
-">
+
 
 
 <h1 align="center">Hi 👋, I'm Deepak Gulati</h1>
